@@ -1,0 +1,9 @@
+theme: minima
+title: 堀川研究室
+
+header_pages:
+  - index.md
+  - research.md
+  - members.md
+  - publications.md
+  - news.md
