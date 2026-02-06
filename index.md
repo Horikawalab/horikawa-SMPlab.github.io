@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: 堀川研
 ---
 
 ## 研究内容
